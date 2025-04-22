@@ -6,11 +6,11 @@ Webová stránka pre Minecraft server **GoldSkyBlock** — unikátneho Skyblock 
 
 ## 🌐 Stránky
 
-- `index.html` – Úvodná stránka so sliderom, informáciami o serveri, stavmi serverov a sekciou o generátoroch.
+- `index.html` – Úvodná stránka so sliderom, informáciami o serveri, stavmi serverov a modifikované sekcie.
 - `admin-team.html` – Predstavenie administračného tímu (admini, moderátori, helperi, builderi).
-- `donate.html` – Informácie o možnostiach podpory serveru cez Tebex.
+- `donate.html` – Informácie o možnostiach podpory serveru.
 - `dynmapy.html` – Interaktívne mapy oboch svetov (Original a Hardcore).
-- `voting.html` – Hlasovanie na vote portáloch, kde hráči získavajú vote truhly.
+- `voting.html` – Hlasovanie na vote portáloch, kde hráči získavajú vote kľúče.
 
 ---
 
