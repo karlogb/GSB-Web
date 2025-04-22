@@ -139,10 +139,10 @@ document.addEventListener('DOMContentLoaded', function () {
     let containerId = '';
 
     if (type === 'original') {
-      apiUrl = 'https://query.fakaheda.eu/82.208.17.24:27443.feed';
+      apiUrl = 'https://query.fakaheda.eu/82.208.17.24:55555.feed';
       containerId = 'original-players';
     } else if (type === 'hc') {
-      apiUrl = 'https://query.fakaheda.eu/82.208.17.35:27114.feed';
+      apiUrl = 'https://query.fakaheda.eu/82.208.17.35:55555.feed';
       containerId = 'hc-players';
     }
 
