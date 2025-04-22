@@ -1,6 +1,6 @@
 # 🌟 GoldSkyBlock
 
-Webová prezentácia Minecraft serveru **GoldSkyBlock** — unikátneho Skyblock serveru
+Webová stránka pre Minecraft server **GoldSkyBlock** — unikátneho Skyblock serveru
 
 ---
 
