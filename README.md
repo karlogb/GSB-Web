@@ -1,8 +1,6 @@
 # 🌟 GoldSkyBlock
 
-Oficiálna webová prezentácia Minecraft serveru **GoldSkyBlock** — unikátneho Skyblock serveru s dôrazom na komunitu, spravodlivú hru a hardcore výzvy.
-
-![Logo](assets/Logo.webp)
+Webová prezentácia Minecraft serveru **GoldSkyBlock** — unikátneho Skyblock serveru
 
 ---
 
